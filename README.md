@@ -1,3 +1,5 @@
+[Unity China HairFX毛发系统面世！基于AMD TressFX开源框架打造](https://mp.weixin.qq.com/s/HShpXkp-3qg9iB4kRzMXAQ)
+
 # (URP) Defender Character Demo 
 ## Character Package, and Hairstyles assets released
 
